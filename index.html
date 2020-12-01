@@ -7,7 +7,9 @@
   <title>About Me Website</title>
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="reset.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+   <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
 
@@ -30,16 +32,16 @@
         <ul class="navbar-nav ml-auto">
 
           <!-- The links of our navbar -->
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact <span class="sr-only">(current)</span></a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="portfolio.html">Portfolio</a>
+          </li>
+
           <li class="nav-item active">
-            <a class="nav-link" href="#">Contact <span class="sr-only">(current)</span></a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link" href="#">Portfolio</a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="index.html">About</a>
             </a>
           </li>
 
@@ -53,20 +55,26 @@
                  
         <!-- Card -->
         <div class="container">
+        <div class="row">    
         <div class="col-md-8">
-            <div class="card mt-2">
-              <div class="card-body">
-                <div class="page-header">
-                    <h1>About Me</h1>
+            <div class="card">
+              <div class="card-header">
+                    <h1><strong>About Me</strong></h1>
                     <hr class="my-4">
-                <figure>   
-                <img class="img fluid" src="https://images.unsplash.com/photo-1477453559950-e541fa922120" alt="LittleCoder" width="50%">
-                </figure> 
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="media">
+                                <img class="img img-thumbnail" src="http://placehold.it/150x150">
+                      
+                                
+                                <div class="media-body">
+                                  <h5 class="mt-0">Top-aligned media</h5>
+                                  <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+                                  <p>Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                                </div>
+                              </div>
+                </div>
             </div>
-                <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, maiores, quos. At, animi, facilis. Alias itaque ab minima rerum, eaque animi nesciunt harum nemo est cumque voluptas, qui reprehenderit atque.</p>
-
-                
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               </div>
             </div>
           </div>
