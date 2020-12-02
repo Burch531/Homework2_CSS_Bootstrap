@@ -2,21 +2,25 @@
     text: rgb(79, 79, 160);
 }
 
+.container {
+    background-color: rgb(151, 151, 184);
+    background-size: cover;
+}
+
 /*CSS for index/about */
 
 .card-text {
     display: inline-block;
     }
 
-.img-thumbnail {
-    border: none;
-    display: inline-block;
+img {
+    clear: both;
+    float: left;
+    margin: 10px;
+  
 }
 
-p {
-    float: right;
-    
-}
+
 
 
 
@@ -65,4 +69,14 @@ input[type=text], select {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 10px;
+    
   }
+
+  footer {
+    padding: 100px;
+    clear: both;
+    background: rgb(16, 16, 143)
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+   
+}
