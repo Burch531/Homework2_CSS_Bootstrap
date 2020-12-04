@@ -1,4 +1,4 @@
-
+/*CSS for all html*/
 .navbar-brand {
     text: rgb(79, 79, 160);
 }
@@ -74,12 +74,6 @@ input[type=text], select {
         
   }
 
-  #bio-image {
-    /* Box-model */
-    width: 200px;
-    height: 200px;
-    padding: 10px;
-  }
 
   footer {
     padding: 30px;
