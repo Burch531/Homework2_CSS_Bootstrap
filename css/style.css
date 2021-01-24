@@ -79,9 +79,9 @@ input[type=text], select {
         
   }
 
-
   footer {
-    padding: 50px;
-     
+    width: 100%;
+    text-align: center;
+    padding: 25px;
    
 }
