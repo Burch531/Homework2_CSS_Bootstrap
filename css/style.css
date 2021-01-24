@@ -35,7 +35,9 @@
 
 .page-header {
   font-family: 'Castoro', serif;
-}
+  text-align: center;
+  padding-top: 25px;
+  }
 
 input[type=text], select {
     width: 100%;
