@@ -8,13 +8,14 @@ Link to deployed site - https://burch531.github.io/Homework2_CSS_Bootstrap/
 
 Link to GitHub - https://github.com/Burch531/Homework2_CSS_Bootstrap
 
-##Technologies Used
+## Technologies Used
+
 HTML
 CSS
 Bootstrap
 Font Awesome
 
-##Screenshots
+## Screenshots
 
 https://github.com/Burch531/Homework2_CSS_Bootstrap/issues/2#issue-792961047
 
@@ -22,10 +23,10 @@ https://github.com/Burch531/Homework2_CSS_Bootstrap/issues/3#issue-792961358
 
 https://github.com/Burch531/Homework2_CSS_Bootstrap/issues/1#issue-792960644
 
-##Contact Info 
+## Contact Info 
 This page was built by myself Jamie Burchell
 
-##License
+## License
 MIT
 
 
