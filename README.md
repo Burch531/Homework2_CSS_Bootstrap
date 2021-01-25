@@ -1,14 +1,29 @@
 # Homework2_CSS_Bootstrap
 Responsive Website with CSS and Bootstrap
 
-This webpage is all about me with a portfolio and a contact page
+This website has 3 parts the first about me is about my eperience.  Next is the portfolio that contains work I have completed as well as techincal skills.  Lastly is the contact page where users may submit info to contact me.
 
 
-<a href="https://burch531.github.io/Homework2_CSS_Bootstrap/">About Me Page</a>
+Link to deployed site - https://burch531.github.io/Homework2_CSS_Bootstrap/
 
-<a href="https://burch531.github.io/Homework2_CSS_Bootstrap/portfolio.html">Portfolio Page</a>
+Link to GitHub - https://github.com/Burch531/Homework2_CSS_Bootstrap
 
-<a href="https://burch531.github.io/Homework2_CSS_Bootstrap/contact.html">Contact Page</a>
+##Technologies Used
+HTML
+CSS
+Bootstrap
+Font Awesome
+
+##Screenshots
+
+.images/About.PNG
+
+##Contact Info 
+This page was built by myself Jamie Burchell
+
+##License
+MIT
+
 
 
 
