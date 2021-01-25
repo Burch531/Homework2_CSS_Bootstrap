@@ -16,7 +16,11 @@ Font Awesome
 
 ##Screenshots
 
-.images/About.PNG
+https://github.com/Burch531/Homework2_CSS_Bootstrap/issues/2#issue-792961047
+
+https://github.com/Burch531/Homework2_CSS_Bootstrap/issues/3#issue-792961358
+
+https://github.com/Burch531/Homework2_CSS_Bootstrap/issues/1#issue-792960644
 
 ##Contact Info 
 This page was built by myself Jamie Burchell
