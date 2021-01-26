@@ -10,10 +10,10 @@ Link to GitHub - https://github.com/Burch531/Homework2_CSS_Bootstrap
 
 ## Technologies Used
 
-HTML
-CSS
-Bootstrap
-Font Awesome
+HTML,
+CSS,
+Bootstrap,
+Font Awesome,
 
 ## Screenshots
 
