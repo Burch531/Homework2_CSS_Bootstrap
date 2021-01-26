@@ -16,8 +16,9 @@ Bootstrap,
 Font Awesome,
 
 ## Screenshots
-
-![Profile_Page](./images/Portfolio.PNG)
+![About_Page](.images/About.PNG)
+![Portfolio_Page](./images/Portfolio.PNG)
+![Contact_Page](.images/Contact.PNG)
 
 
 
