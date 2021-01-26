@@ -17,7 +17,7 @@ Font Awesome,
 
 ## Screenshots
 
-![Profile_Page](./images.Portfolio.PNG)
+![Profile_Page](./images/Portfolio.PNG)
 
 
 
