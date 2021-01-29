@@ -4,7 +4,7 @@ nav {
     font-family: Arial, Helvetica, sans-serif
 }
 
-.container {
+body {
     background-color: rgb(151, 151, 184);
     background-size: cover;
 }
@@ -12,6 +12,8 @@ nav {
 
 
 /*CSS for index/about */
+
+
 
 .card-text {
     display: inline-block;
@@ -36,6 +38,10 @@ nav {
 
   #bio-image1 {
     padding-left: 50px;
+  }
+
+  .resume {
+    padding-left: 75px;
   }
 
 
@@ -98,3 +104,10 @@ input[type=text], select {
 .footer {
   background-color: rgba(10, 2, 2, 0);
 }
+
+
+@media only screen and (min-width: 993px) {
+  .container {
+     width: 90%;
+  }
+} 
